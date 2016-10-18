@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Total Uniforms!"
 date:   2016-10-17 23:26:54 +0800
 categories: jekyll update
 ---
